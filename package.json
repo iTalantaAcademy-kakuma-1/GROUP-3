@@ -1,0 +1,22 @@
+{
+  "name": "group-3",
+  "version": "1.0.0",
+  "description": "ASSIGNMENT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iTalantaAcademy-kakuma-1/GROUP-3.git"
+  },
+  "author": "GROUP 3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iTalantaAcademy-kakuma-1/GROUP-3/issues"
+  },
+  "homepage": "https://github.com/iTalantaAcademy-kakuma-1/GROUP-3#readme",
+  "dependencies": {
+    "jake": "^10.8.2"
+  }
+}
