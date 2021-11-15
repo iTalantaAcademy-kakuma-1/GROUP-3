@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/iTalantaAcademy-kakuma-1/GROUP-3#readme",
   "dependencies": {
-    "jake": "^10.8.2"
-  }
+    "jake": "^10.8.2",
+    "lodash": "^4.17.21",
+    "save": "^2.4.0"
+  },
+  "devDependencies": {}
 }
