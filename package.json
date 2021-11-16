@@ -19,7 +19,7 @@
   "dependencies": {
     "jake": "^10.8.2",
     "lodash": "^4.17.21",
-    "save": "^2.4.0"
-  },
-  "devDependencies": {}
+    "save": "^2.4.0",
+    "systeminformation": "^5.9.13"
+  }
 }
